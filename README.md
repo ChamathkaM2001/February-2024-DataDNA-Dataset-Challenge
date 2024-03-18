@@ -1,4 +1,24 @@
 # February-2024-DataDNA-Dataset-Challenge
+### Table  Of Content
+-[Project Overview](#project-overview)
+
+-[Data Sources](#data-sources)
+
+-[Tools Used](#tools-used)
+
+-[Data Cleaning](#data-cleaning)
+
+-[Exploratory Data Analysis](#exploratory-data-analysis)
+
+-[Data Analysis](#data-analysis)
+
+-[Results](#results)
+
+-[Recommendations](#recommendations)
+
+-[Limitations](#limitations)
+
+
 ## Project Overview
 In collaboration with one of my friends, we embarked on an exciting journey delving into the February 2024 DataDNA-Dataset Challenge. Our aim was to unearth hidden patterns and insights within the dataset, leveraging our combined skills and passion for data exploration. Through meticulous analysis and visualization, we crafted a Power BI dashboard that serves as a comprehensive visual narrative of our findings, illuminating key trends and actionable insights for further exploration.
 
